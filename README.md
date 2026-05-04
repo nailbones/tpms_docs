@@ -5,6 +5,9 @@ RTL_433
 A data receiver / parser thing for oft-used TPMS bands (433MHz, 315MHz)
 https://github.com/merbanan/rtl_433
 
+Experimental repo for a Toyota 315MHz tpms sensor
+https://github.com/xnk/pacific-tpms
+
 Someone's journey to read TPMS data from a Toyota
 https://r-c-y.net/posts/tpms/
 
